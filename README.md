@@ -53,15 +53,15 @@ Download GoldenDict from below links as follows:
 
 **screenshots:**
 
-![screenshot 01]()
+![screenshot 01](https://raw.githubusercontent.com/dolanskurd/cambridge_english_korean/master/img/Screenshots/screenshot1.png)
 
-![screenshot 02]()
+![screenshot 02](https://raw.githubusercontent.com/dolanskurd/cambridge_english_korean/master/img/Screenshots/screenshot2.png)
 
 [**Cambridge English Korean Website**](https://dictionary.cambridge.org/ko/사전/영어-한국어/)
 
 **screenshot:**
 
-![Cambridge English Korean Website screenshot]()
+![Cambridge English Korean Website screenshot](https://raw.githubusercontent.com/dolanskurd/cambridge_english_korean/master/img/Screenshots/cek_website_screenshot.png)
 
 ## Contact me
 
