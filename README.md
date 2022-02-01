@@ -69,9 +69,3 @@ I hope you like this dictionary. Feel free to reach out if you have questions or
 
 - **[Twitter](http://www.twitter.com/dolanskurd)**
 - **E-mail: [dolanskurd@mail.com](mailto:dolanskurd@mail.com)**
-
-## Donate
-
-If you think it deserves, **Buy Me A Coffee!** :
-
-- **[iTunes Gift Cards via PayPal (Email-Delivery)](https://www.paypal.com/us/gifts/brands/itunes)** to my Apple ID: **dolanskurd@gmail.com**
